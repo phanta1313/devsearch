@@ -1,5 +1,12 @@
+asgiref
 django
 djangorestframework
+django-cors-headers
 drf-yasg
 django-jazzmin
+PyJWT
+pytz
+sqlparse
+psycopg2-binary
+python-dotenv
 pillow
